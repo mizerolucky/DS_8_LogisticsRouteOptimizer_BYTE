@@ -1,5 +1,8 @@
 # Wayline — Kigali Route Optimizer
 
+<img width="950" height="475" alt="image" src="https://github.com/user-attachments/assets/966de030-c18f-4eec-84aa-adfec7ad5042" />
+
+
 An interactive **AVIP 2026 Data Science Task 8** project that visits 20 real Kigali locations and returns to a starting point. It uses nearest neighbor to build a tour and best-improvement 2-opt to shorten it. Visitors can change the stops and optimize a new route in the browser.
 
 ## Results
@@ -35,6 +38,9 @@ npm run dev
 ```
 
 Deploy the repository as a **Vite** project on Vercel (`npm run build`, output `dist`). No backend, API key, or database is required. Map tiles are loaded from OpenStreetMap with visible attribution; the plotted route and markers remain driven by the committed coordinate data.
+
+<img width="950" height="476" alt="image" src="https://github.com/user-attachments/assets/bdc38975-e44d-493e-a05b-38353e5d59a9" />
+
 
 ## Deliverables
 
