@@ -1,0 +1,255 @@
+{
+  "source": "https://api.openstreetmap.org/api/0.6/map?bbox=30.05,-1.96,30.07,-1.94",
+  "extractedAt": "2026-09-23",
+  "method": "nearest neighbor followed by best-improvement 2-opt",
+  "distanceMethod": "Haversine great-circle distance, not road driving distance",
+  "randomSeed": 2026,
+  "randomTrials": 1000,
+  "depot": {
+    "osmId": 1841500437,
+    "name": "SP City Centre",
+    "category": "fuel",
+    "lat": -1.9501193,
+    "lon": 30.0610079,
+    "id": 0
+  },
+  "stops": [
+    {
+      "osmId": 10989111294,
+      "name": "GITEGA Primary School",
+      "category": "school",
+      "lat": -1.9596934,
+      "lon": 30.0560275,
+      "id": 1
+    },
+    {
+      "osmId": 12950467850,
+      "name": "Akabahizi Health Post",
+      "category": "hospital",
+      "lat": -1.9452939,
+      "lon": 30.0517438,
+      "id": 2
+    },
+    {
+      "osmId": 10827037416,
+      "name": "Ecole Privèe Marie Axiliatrice",
+      "category": "school",
+      "lat": -1.9557366,
+      "lon": 30.0694502,
+      "id": 3
+    },
+    {
+      "osmId": 12950467150,
+      "name": "Dr. Jhon Cloths,",
+      "category": "hospital",
+      "lat": -1.9403088,
+      "lon": 30.0617941,
+      "id": 4
+    },
+    {
+      "osmId": 12950467809,
+      "name": "Score Pharmacy",
+      "category": "pharmacy",
+      "lat": -1.9468174,
+      "lon": 30.069961,
+      "id": 5
+    },
+    {
+      "osmId": 10989089714,
+      "name": "SACCO KIMISAGARA",
+      "category": "bank",
+      "lat": -1.9524092,
+      "lon": 30.0519027,
+      "id": 6
+    },
+    {
+      "osmId": 12950467557,
+      "name": "Pharmacie Marebe",
+      "category": "pharmacy",
+      "lat": -1.9567157,
+      "lon": 30.0636349,
+      "id": 7
+    },
+    {
+      "osmId": 281375402,
+      "name": "Rubis",
+      "category": "fuel",
+      "lat": -1.9454237,
+      "lon": 30.0577885,
+      "id": 8
+    },
+    {
+      "osmId": 8862840708,
+      "name": "Coffee Corner",
+      "category": "restaurant",
+      "lat": -1.9454256,
+      "lon": 30.0637697,
+      "id": 9
+    },
+    {
+      "osmId": 6480899085,
+      "name": "Lycée Notre Dame de Citeaux",
+      "category": "school",
+      "lat": -1.9545042,
+      "lon": 30.0600872,
+      "id": 10
+    },
+    {
+      "osmId": 12950467640,
+      "name": "St Peter Biomedical Laboratories Clinic",
+      "category": "hospital",
+      "lat": -1.9590148,
+      "lon": 30.0599413,
+      "id": 11
+    },
+    {
+      "osmId": 12950465331,
+      "name": "Peace Pharmacy",
+      "category": "pharmacy",
+      "lat": -1.9558171,
+      "lon": 30.0535629,
+      "id": 12
+    },
+    {
+      "osmId": 12950465345,
+      "name": "Wiwo Specialized Hospital",
+      "category": "hospital",
+      "lat": -1.9440648,
+      "lon": 30.067435,
+      "id": 13
+    },
+    {
+      "osmId": 12950467516,
+      "name": "Sunivas Healthcare",
+      "category": "pharmacy",
+      "lat": -1.9417765,
+      "lon": 30.0584235,
+      "id": 14
+    },
+    {
+      "osmId": 4289250189,
+      "name": "German Butchery",
+      "category": "restaurant",
+      "lat": -1.9520922,
+      "lon": 30.0578131,
+      "id": 15
+    },
+    {
+      "osmId": 1841494361,
+      "name": "National Bank of Rwanda",
+      "category": "bank",
+      "lat": -1.9487165,
+      "lon": 30.0638152,
+      "id": 16
+    },
+    {
+      "osmId": 11003000283,
+      "name": "Group Scolaire Kimisagara",
+      "category": "school",
+      "lat": -1.9493411,
+      "lon": 30.0513123,
+      "id": 17
+    },
+    {
+      "osmId": 12950467956,
+      "name": "Miracle Pharmacy",
+      "category": "pharmacy",
+      "lat": -1.9441156,
+      "lon": 30.0605976,
+      "id": 18
+    },
+    {
+      "osmId": 6209321730,
+      "name": "O'Tamarillo",
+      "category": "restaurant",
+      "lat": -1.9564433,
+      "lon": 30.0666325,
+      "id": 19
+    },
+    {
+      "osmId": 706263174,
+      "name": "Ecobank",
+      "category": "bank",
+      "lat": -1.9471565,
+      "lon": 30.0600806,
+      "id": 20
+    }
+  ],
+  "nearestRoute": [
+    0,
+    20,
+    8,
+    18,
+    14,
+    4,
+    9,
+    16,
+    13,
+    5,
+    3,
+    19,
+    7,
+    10,
+    15,
+    12,
+    6,
+    17,
+    2,
+    1,
+    11,
+    0
+  ],
+  "optimizedRoute": [
+    0,
+    20,
+    8,
+    18,
+    14,
+    4,
+    9,
+    16,
+    13,
+    5,
+    3,
+    19,
+    7,
+    11,
+    1,
+    12,
+    6,
+    17,
+    2,
+    15,
+    10,
+    0
+  ],
+  "exampleRandomRoute": [
+    0,
+    15,
+    19,
+    1,
+    10,
+    14,
+    2,
+    7,
+    16,
+    3,
+    13,
+    12,
+    9,
+    18,
+    17,
+    4,
+    6,
+    20,
+    8,
+    5,
+    11,
+    0
+  ],
+  "nearestKm": 11.261,
+  "optimizedKm": 10.007,
+  "randomExampleKm": 24.776,
+  "randomMeanKm": 24.387,
+  "savingsPercent": 59.0
+}
